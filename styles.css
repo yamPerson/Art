@@ -59,19 +59,20 @@ li a:hover {
     text-align: center;
     background-image: url('New-York-Skyline-Big-Bus-Tours-Dec-2016.jpg');
     position: relative;
-    width: 100%;
-    height: auto;
     margin-top: -6%;
     padding-top: 10%;
     padding-bottom: 5%;
     color: black;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .middle-texttop {
-    margin-bottom: 15%;
+    margin-bottom: 5%;
     background-color: black;
     color: white;
-    padding: 1%;
 }
 
 .nice-art {
@@ -86,13 +87,15 @@ li a:hover {
 .middle-texttwo {
     text-align: left;
     padding-left: 10%;
-    margin-top: -10%;
+    padding-top: 4%;
+    padding-bottom: 3%;
+    background-image: url(bl8RJdP.jpg);
     color: white;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     background-color: black;
-}
-
-.button-other {
-    text-align: left;
 }
 
 .pic {
